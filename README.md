@@ -1,6 +1,6 @@
 ![LogoST.png](LogoST.png)
 
-Final work developed for the course Vibrations of Assembled Structures of the Graduate Program in Mechanical Engineering at the Faculty of Engineering of Ilha Solteira (FEIS/UNESP).
+Work developed for the course Dynamics of Mechanical Systems of the Graduate Program in Mechanical Engineering at the Faculty of Engineering of Ilha Solteira (FEIS/UNESP).
 
 # Documentation
 All the modules are commented to facilitate the usage by the users.
